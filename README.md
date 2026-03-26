@@ -302,9 +302,11 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## Author
+## Authors
 
 **Mustafa Ozgur** — [@mmustafaozgur](https://github.com/mmustafaozgur)
+**Ahmet Ozbay** — [@Ahmet-Ozbay](https://github.com/Ahmet-Ozbay)
+**Onur Dalgic** — [@dlgonur](https://github.com/dlgonur)
 
 ---
 
