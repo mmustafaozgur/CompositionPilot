@@ -37,6 +37,18 @@ A Windows desktop application built with Flutter that predicts **Delta E (format
 
 ---
 
+## Disclaimer
+
+This project was built using **publicly available open-source datasets** for research and proof-of-concept purposes.
+
+- Prediction results **may not be 100% accurate**. The primary goal of this project is to demonstrate the feasibility and core logic of using machine learning models for alloy composition optimization.
+- The datasets used were the best openly available options at the time of development. Due to their limited scope and resolution, some predictions may deviate from experimentally measured values.
+- For production-grade accuracy and reliability, it is recommended to retrain the models with **higher-quality, closed-source, or domain-specific datasets** that offer greater coverage, precision, and material diversity.
+
+> This tool is intended for research exploration and educational purposes. Always validate critical results with experimental data or established simulation methods (e.g., DFT calculations).
+
+---
+
 ## ML Models
 
 | Model | Port | Framework | Description |
