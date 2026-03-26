@@ -21,6 +21,22 @@ A Windows desktop application built with Flutter that predicts **Delta E (format
 
 ---
 
+## Screenshots
+
+### Startup — ML Models Loading
+![Startup Screen](1.png)
+> On launch, the app initializes all 5 ML model services in the background. A startup dialog shows each model's loading status in real time.
+
+### Element & Composition Selection
+![Element Selection](2.png)
+> The main interface presents a full interactive periodic table. Select elements by clicking on them, then set the composition fraction for each one or choose random search mode.
+
+### Prediction Results
+![Results Screen](3.png)
+> The results page displays the predicted Delta E (formation energy) value in eV/atom, thermodynamic stability classification, chemical formula, composition pie chart, molecular properties (molecular weight, density, molar volume), and detailed element properties.
+
+---
+
 ## ML Models
 
 | Model | Port | Framework | Description |
@@ -277,3 +293,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Author
 
 **Mustafa Ozgur** — [@mmustafaozgur](https://github.com/mmustafaozgur)
+
+---
+
+*Co-authored with [Claude](https://claude.ai) by Anthropic.*
