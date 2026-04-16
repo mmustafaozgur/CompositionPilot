@@ -309,7 +309,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Ahmet Ozbay** — [@Ahmet-Ozbay](https://github.com/Ahmet-Ozbay)
 
 **Onur Dalgic** — [@dlgonur](https://github.com/dlgonur)
-
----
-
-*Co-authored with [Claude](https://claude.ai) by Anthropic.*
